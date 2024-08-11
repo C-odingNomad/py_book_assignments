@@ -1,4 +1,4 @@
-# Starting A New Book for Python Learning
+## Starting A New Book for Python Learning
 
 This repo is based on the assignments I have completed during learning the Python language.
 
